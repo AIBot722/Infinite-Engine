@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "item_id": "potion",
+      "name": "Healing Potion",
+      "effect": "heal",
+      "power": 8,
+      "sprite_id": "item_potion",
+      "fg_color": "#e53935",
+      "bg_color": "#000000",
+      "ascii": "!"
+    },
+    {
+      "item_id": "gold",
+      "name": "Gold",
+      "effect": "gold",
+      "power": 1,
+      "sprite_id": "item_gold",
+      "fg_color": "#fdd835",
+      "bg_color": "#000000",
+      "ascii": "$"
+    },
+    {
+      "item_id": "weapon",
+      "name": "Rusty Blade",
+      "effect": "atk",
+      "power": 2,
+      "sprite_id": "item_weapon",
+      "fg_color": "#b0bec5",
+      "bg_color": "#000000",
+      "ascii": "/"
+    }
+  ]
+}
