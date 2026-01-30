@@ -1,0 +1,56 @@
+{
+  "entities": [
+    {
+      "entity_id": "player",
+      "name": "Adventurer",
+      "base_hp": 20,
+      "base_atk": 5,
+      "base_def": 2,
+      "xp": 0,
+      "sprite_id": "entity_player",
+      "fg_color": "#4caf50",
+      "bg_color": "#000000",
+      "ascii": "@",
+      "ai": null
+    },
+    {
+      "entity_id": "rat",
+      "name": "Rat",
+      "base_hp": 6,
+      "base_atk": 2,
+      "base_def": 0,
+      "xp": 4,
+      "sprite_id": "entity_rat",
+      "fg_color": "#a1887f",
+      "bg_color": "#000000",
+      "ascii": "r",
+      "ai": "basic"
+    },
+    {
+      "entity_id": "slime",
+      "name": "Slime",
+      "base_hp": 10,
+      "base_atk": 3,
+      "base_def": 1,
+      "xp": 6,
+      "sprite_id": "entity_slime",
+      "fg_color": "#4dd0e1",
+      "bg_color": "#000000",
+      "ascii": "s",
+      "ai": "basic"
+    },
+    {
+      "entity_id": "skeleton",
+      "name": "Skeleton",
+      "base_hp": 14,
+      "base_atk": 4,
+      "base_def": 2,
+      "xp": 10,
+      "sprite_id": "entity_skeleton",
+      "fg_color": "#e0e0e0",
+      "bg_color": "#000000",
+      "ascii": "k",
+      "ai": "basic"
+    }
+  ]
+}

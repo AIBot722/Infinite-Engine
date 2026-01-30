@@ -1,0 +1,31 @@
+{
+  "tiles": [
+    {
+      "tile_id": "floor",
+      "walkable": true,
+      "transparent": true,
+      "sprite_id": "tile_floor",
+      "fg_color": "#cccccc",
+      "bg_color": "#222222",
+      "ascii": "."
+    },
+    {
+      "tile_id": "wall",
+      "walkable": false,
+      "transparent": false,
+      "sprite_id": "tile_wall",
+      "fg_color": "#888888",
+      "bg_color": "#111111",
+      "ascii": "#"
+    },
+    {
+      "tile_id": "door",
+      "walkable": true,
+      "transparent": true,
+      "sprite_id": "tile_door",
+      "fg_color": "#d2a679",
+      "bg_color": "#333333",
+      "ascii": "+"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "xp_table": [10, 25, 50, 90],
+  "level_up_hp": 5,
+  "level_up_atk": 1,
+  "level_up_def": 1
+}
